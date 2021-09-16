@@ -37,3 +37,27 @@
 </p>
 
 --- 
+
+## Deploy
+
+Deploy on Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HTechMediaYT/Translator-Tg-Bot/)
+    
+### Note
+
+```
+Contributions are welcomed, But Kanging and editing a few lines wont make you a Developer.
+Fork the repo, Do not Import code.
+
+```
+  
+```
+LEGAL DISCLAIMER
+
+Developer or his team won't be liable for any loss caused by MISUSE of this Script.
+This Bot is Indended to be used only for Educational Purposes.
+
+```
+    
+#### Made With ❤ By [@HTechMedia](https://telegram.dog/HTechMedia)    
